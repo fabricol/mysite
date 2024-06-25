@@ -1,2 +1,2 @@
 # mysite
-Criação de um site utilizando o Djangp
+Criação de um site utilizando o Django
